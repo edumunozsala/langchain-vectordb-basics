@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 # VS Code Settings
 .vscode
+
+# Datafiles folder
+data

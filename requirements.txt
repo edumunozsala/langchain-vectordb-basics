@@ -6,3 +6,4 @@ deeplake
 openai
 tiktoken
 transformers
+deeplake
