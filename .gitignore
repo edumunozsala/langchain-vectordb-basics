@@ -132,3 +132,6 @@ dmypy.json
 
 # Datafiles folder
 data
+models
+deeplake
+

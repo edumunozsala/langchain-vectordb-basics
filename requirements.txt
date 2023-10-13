@@ -7,3 +7,5 @@ openai
 tiktoken
 transformers
 deeplake
+sentencepiece
+gpt4all
