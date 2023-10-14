@@ -9,3 +9,4 @@ transformers
 deeplake
 sentencepiece
 gpt4all
+pyvis
