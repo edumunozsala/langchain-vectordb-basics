@@ -10,3 +10,4 @@ deeplake
 sentencepiece
 gpt4all
 pyvis
+apify-client
